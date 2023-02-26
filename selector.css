@@ -1,0 +1,46 @@
+/* universal selector 
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+*/
+/* element selector */
+/* h1 {
+    color:red;
+}
+p{
+    color:black;
+ } */
+
+ /* class selector 
+ .pra{
+    color: bisque;
+ }
+ .hello{
+    color: red;
+ }
+ */ 
+
+ /* id selector */
+/* # id
+. class */
+ /* #id1{
+    color:whitesmoke ;
+    background-color: aquamarine;
+ }
+*/
+ /* selector list 
+ .class1,.class7,.class10{
+
+ } */
+
+ /* desender selector */
+ main{
+    color: rgb(126, 139, 139);
+ }
+
+ /*  child selector */
+ h1>p{
+    color: blue;
+ }
